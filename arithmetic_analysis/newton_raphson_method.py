@@ -22,7 +22,7 @@ if __name__ == '__main__':
     # Find value of pi
     print ('sin(x) = 0', NewtonRaphson('sin(x)', 2))
     
-    # Find root of polynomial
+    # Find root of polynomials
     print ('x**2 - 5*x +2 = 0', NewtonRaphson('x**2 - 5*x +2', 0.4))
     
     # Find Square Root of 5
